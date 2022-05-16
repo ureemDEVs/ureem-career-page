@@ -12,7 +12,7 @@ export const homeObjOne = {
   imgStart: '',
   link: '/sign-up',
   img: require('../../images/svgs.svg'),
-  alt: 'Credit Card',
+  // alt: 'Credit Card',
   start: ''
 };
 
